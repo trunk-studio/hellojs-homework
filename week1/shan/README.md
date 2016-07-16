@@ -9,7 +9,7 @@
 ##自我介紹
 ![](intro.jpg)
 
-<table align='center'  style="border: 1px solid;>
+<table  style="text-align=center; border: 1px solid;>
 <tr>
     <td>姓名</td>
     <td>許昱彥</td>
