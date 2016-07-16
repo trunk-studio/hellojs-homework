@@ -1,5 +1,3 @@
-# week1 回家作業
-
 ## 自我介紹
 
 大家好，我是 Max。剛從成大畢業。
@@ -14,7 +12,7 @@
 
 - [GitHub](https://github.com/LIYINGZHEN)
 
-- [LinkedIn](Public Profilehttps://tw.linkedin.com/in/ying-zhen-li-4911a1107)
+- [LinkedIn](https://tw.linkedin.com/in/ying-zhen-li-4911a1107)
 
 ## 第一周心得
 
