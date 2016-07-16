@@ -10,7 +10,7 @@
 
 ##自我介紹
 
-<table  style="text-align：center; border: 1px solid”;>
+<table  style="text-align：center; border: 1px solid";>
 <tr>
     <td>姓名</td>
     <td>許昱彥</td>
