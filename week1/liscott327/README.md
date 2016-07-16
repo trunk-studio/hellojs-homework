@@ -18,10 +18,9 @@
 		李奕諴<p>
         來自 高雄市<p>
         正修科技大學 資訊工程系
-    </div>
+
 
 </ul>
-<center>
 <table border=0 width=450>
 <tr>
     <td>生日</td>
@@ -64,7 +63,6 @@
     </td>
 
 </table>
-</center>
-
+<div>
 [我的FACEBOOK](http://goo.gl/QCKEUc)
 <!--這是註解-->
