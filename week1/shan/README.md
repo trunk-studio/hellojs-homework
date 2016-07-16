@@ -5,11 +5,11 @@
    第一次到現場來實習,有點小小的緊張<br>
    雖然有些東西已經聽過了,但再學習一次<br>
    會讓自己更加的了解運作的過程及原理.<br>
-
-![](intro.jpg)
-
+   希望大家有問題可以提出來,雖然我不一<br>
+   定會,但是大家可以拿出來一起討論.
+   
 ##自我介紹
-
+![](intro.jpg)
 <table  style="text-align：center; border: 1px solid";>
 <tr>
     <td>姓名</td>
