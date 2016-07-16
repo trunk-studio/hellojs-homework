@@ -7,7 +7,7 @@
    會讓自己更加的了解運作的過程及原理.<br>
 
 ##自我介紹
-![](/intro.jpg)
+![](intro.jpg)
 
 <table align='center'  style="border: 1px solid;>
 <tr>
