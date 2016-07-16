@@ -14,16 +14,15 @@
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 ##自我介紹
 <ul>
-   <center><img src=https://goo.gl/OTEM1M height="50%" width="50%" /><p>
+   <div align="center"><img src=https://goo.gl/OTEM1M height="50%" width="50%" /><p>
 		李奕諴<p>
         來自 高雄市<p>
         正修科技大學 資訊工程系
-    </center>
-		
+    </div>
+
 </ul>
 <center>
 <table border=0 width=450>
-
 <tr>
     <td>生日</td>
     <td>3月27日</td>
@@ -69,5 +68,3 @@
 
 [我的FACEBOOK](http://goo.gl/QCKEUc)
 <!--這是註解-->
-
-
