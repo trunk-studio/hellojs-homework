@@ -1,4 +1,4 @@
-![創科資訊 Trunk Studio](https://github.com/a10423006/git-test2/blob/master/annie/13391513_647568472064110_6868875354989040377_o.png?raw=true.jpg "Trunk Studio")
+![創科資訊 Trunk Studio](https://github.com/a10423006/hellojs-homework/blob/master/week1/annie/13391513_647568472064110_6868875354989040377_o.png?raw=true.jpg "Trunk Studio")
 * * *
 #個人簡介
 
