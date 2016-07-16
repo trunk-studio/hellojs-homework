@@ -6,7 +6,7 @@
 >
 >|圖片|自我介紹|
 >| ---    | --- |
->|![](https://github.com/a10423006/git-test2/blob/master/annie/1.jpg?raw=true.jpg)|Hi!大家好，我是薏安，綽號叫`安安`，對Linux和JS都是超級新手，還在努力中!學過Java、C、html、VB等基本語言，目前因專題撰寫Android中，對多媒體也很有興趣。|
+>|![](https://github.com/a10423006/hellojs-homework/blob/master/week1/annie/1.jpg)|Hi!大家好，我是薏安，綽號叫`安安`，對Linux和JS都是超級新手，還在努力中!學過Java、C、html、VB等基本語言，目前因專題撰寫Android中，對多媒體也很有興趣。|
 >|姓名    |盧薏安|
 >|性別    |女|
 >|出生日期|1995 年 01 月 12|
