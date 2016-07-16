@@ -6,12 +6,11 @@
    雖然有些東西已經聽過了,但再學習一次<br>
    會讓自己更加的了解運作的過程及原理.<br>
 
-##本人
 ![](intro.jpg)
 
 ##自我介紹
 
-<table  style="text-align=center; border: 1px solid;>
+<table  style="text-align：center; border: 1px solid”;>
 <tr>
     <td>姓名</td>
     <td>許昱彥</td>
