@@ -10,18 +10,18 @@
 藉由這個機會與大家互相交流  
 大家一起學習成長，往自己的目標前進 (↗＝ ω＝)↗
 
-工作經歷  
-  - 網路工程師，安裝設定 Cisco Switch , Firewall , Wan laod balance
+### 工作經歷  
+  - 網路工程師，安裝設定 Cisco Switch , Firewall , Wan load balance
   - HelpDesk，協助排除 User 端所遭遇的所有問題，監控系統、網路設備  
 
-興趣休閒 ： *慢跑*，登山步道，電玩 (_PS4_ , XONE)  
+### 興趣休閒 ： *慢跑*，登山步道，電玩 (_PS4_ , XONE)  
 
 ----------
 ## 上課心得 ##
 大家在自我介紹的時候，好多雲科的同學阿，超想認親的QQ，而且人真的超級多的  
 教室大爆滿，雖然是坐在教室另一邊(笑)，但還是能夠藉由 zoom 軟體得到同步的上課畫面
 ### Markdown
-線上說明 [MarkDown](http://markdown.tw/)  
+[MarkDown](http://markdown.tw/)語法線上說明  
 線上編輯器 [Dillinger](http://dillinger.io/)
 
 ### Git
