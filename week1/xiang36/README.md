@@ -1,8 +1,8 @@
 ***
 ### 個人資料
 
-|個人資料|-|
-|:-:|-|
+|個人資料||
+|:---:|---|
 |姓名|王瑋祥|
 |信箱|once9125@gmail.com|
 |社群|[Facebook](https://www.facebook.com/wei.wang.1690)|
