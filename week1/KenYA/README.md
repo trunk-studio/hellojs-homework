@@ -14,7 +14,8 @@
   - 網路工程師，安裝設定 Cisco Switch , Firewall , Wan load balance
   - HelpDesk，協助排除 User 端所遭遇的所有問題，監控系統、網路設備  
 
-### 興趣休閒 ： *慢跑*，登山步道，電玩 (_PS4_ , XONE)  
+### 興趣休閒 ：
+  - *慢跑*，登山步道，電玩 (_PS4_ , XONE)  
 
 ----------
 ## 上課心得 ##
