@@ -39,6 +39,7 @@
  7. $git commit -m "訊息" //提交檔案到本端
  8. $git remote add XXX url //建立一個遠端名為XXX
  9. $git push   //push到遠端
+ 10. pull request
 
 ```
 
