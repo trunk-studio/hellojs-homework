@@ -9,8 +9,8 @@
  *專長:
  1. Html Css  PHP  MYSQL<
  2. Illustrator 
- 3.Photoshop
- 4.AfterEffect 
+ 3. Photoshop
+ 4. AfterEffect 
 
 >####為何想來HelloJS課程?
 ***   
