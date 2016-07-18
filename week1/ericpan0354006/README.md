@@ -27,5 +27,5 @@ Review of week 1
   <br  />
   I am hoping that I can catch up with everyone next week. ![](http://www.quarkclan.com/public/style_emoticons/default/BibleThump.png)
   <br  />
-  By the way, I am glad that I've learned a new useful tool 'Git Hub' though I am just a beginner. ![](http://www.thetranslationpeople.com/wp-content/uploads/2015/11/tears-of-joy.png)
+  By the way, I am glad that I've learned a new useful tool 'GitHub' though I am just a beginner. ![](http://www.thetranslationpeople.com/wp-content/uploads/2015/11/tears-of-joy.png)
  
