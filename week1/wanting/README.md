@@ -6,7 +6,7 @@
  * 家鄉:台灣正中心
  * 學校:彰化師範大學資管系
  * 興趣:唱歌 彈吉他 看網站
- * 專長:
+ - 專長:
  + Html Css  PHP  MYSQL
  + Illustrator 
  + Photoshop
