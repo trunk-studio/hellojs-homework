@@ -1,17 +1,21 @@
-# week1 回家作業
+自我介紹
+===
+- 名字：李學樺(Jeffery)
 
-## 目標
+- 學歷：雲科大畢業(目前待役中)
 
-1. 使用 Markdown 撰寫自我介紹，與第一週上課心得
-2. Markdown 使用說明：<http://markdown.tw/>
-2. fork <https://github.com/trunk-studio/hellojs-homework>
-3. 在 week1 底下建立你的 gihub id 資料夾，如：`./week1/john/README.md`
-4. 完成後在透過 pull request 的方式將成果與上游專案進行合併
-5. 一旦 pull request 建立，可以把 link 貼到 slack 確認沒問題則進行 merge
+- 專長：php、mysql、ajax
 
-## 目的
+- Framwork：laravel(有相同好愛者可以交流一下～)、Bootstrap
 
-1. 透過 fork 與 pull request 了解專案在開發中怎麼進行合作與討論
-2. 透過自我介紹 README.md 的撰寫，學習表達敘述及讓大家更認識彼此，以及作為分組參考
-3. 使用 Markdown 撰寫文件，了解如何快速寫出格式漂亮的文件。
-4. 透過過程的 git 的操作瞭解版本控制
+- 理想工作：php後端工程師
+
+Week1
+===
+
+### 心得
+###### 1. 這次上課用cloud 9、virtual box讓我們不用煩惱環境的設定真的很方便
+###### 2. 雖然有用過git的基本語法但都是只有自己在用不會遇到什麼問題，經過老師講解git flow和多人分工注意的東西，讓我對git的使用有更深入的了解，真的很感謝老師的用心教導:satisfied:
+###### 3. 最後分享的Github Page 終於知道別人分享的xxx.github.io怎麼建立真的很開心，希望下次可以分享[Hexo](https://hexo.io/)如何使用～
+### 筆記
+- [HelloJS 7/15](https://hackmd.io/s/H1j2O3Hv)
