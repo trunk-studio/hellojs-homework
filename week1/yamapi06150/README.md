@@ -2,18 +2,6 @@
 ![RIZE icon](https://goo.gl/RWOMZV)
 ##基本資料
 
-欄位名稱|內容
-:----------- :| :-----------
-姓名         | 顏照銓       
-a.k.a.      | Ken、顏銓 
-學歷         |政大資管所 (剛過畢業口試..)
-專長         | Java...Pure Java..        
-經驗         | pure js + G.A.做Embdded Code蒐集Web運作log        
-興趣         |技術、個人管理、Street Style、E.D.M.
-社群         | [顏銓](https://www.facebook.com/boyij2)
-Email         | <yamapi06150@gmail.com> 
-現階段最想做的  | 找到最適合自己的技能樹..然後拼了命拿點數去灌..
-
 ##參加原因
 
 * 一直以來都是寫Pure Java，對Framework充滿好奇..不管是哪一種程式語言都沒去碰過框架...so..。
