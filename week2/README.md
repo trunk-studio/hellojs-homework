@@ -25,5 +25,9 @@
 6. 刪除該位 friend (delete)
 7. test 重新 run 之後，上述步驟結果將會一樣
 8. 皆使用 ES6 語法
+9. 
+
+## 繳交方式
+直接 fork  [node-tdd-sample](https://github.com/agileworks-tw/node-tdd-sample)寫完作業後發 Pull requests 回去 node-tdd-sample 專案中，我們 review 完成後會把該 Pull requests close
 
 ## 目的
