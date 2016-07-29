@@ -35,6 +35,21 @@ describe('test user api', () => {
     }
   });
 
+  it('add user', async(done) => {
+    try {
+      const res = await request(sails.hooks.http.app)
+      .post(`/user`)
+      .send({
+        email: 'test@gmail.com',
+        password: 'test'
+      });
+      res.status.should.be.eq(200);
+      done()
+    } catch (e) {
+      done(e)
+    }
+  });
+
 });
 ```
 
